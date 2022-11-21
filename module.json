@@ -1,0 +1,12 @@
+{
+    "id": "schedulepost",
+    "name": "Schedule Post",
+    "description": "Allows you to schedule posts on profile and spaces. Also edit and repost to different time.",
+    "keywords": [
+    ],
+    "version": "0.1",
+    "humhub": {
+        "minVersion": "1.2"
+    },
+    "screenshots": ["assets/screen1.jpg"]
+}
